@@ -45,10 +45,10 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
 Contributions of any kind welcome!
 
-[version-badge]: https://img.shields.io/npm/v/ng2html-jest.svg?style=flat-square
-[package]: https://www.npmjs.com/package/ng2html-jest
+[version-badge]: https://img.shields.io/npm/v/nghtml2js-jest.svg?style=flat-square
+[package]: https://www.npmjs.com/package/nghtml2js-jest
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-[build-badge]: https://img.shields.io/travis/spirosikmd/ng2html-jest.svg?style=flat-square
-[build]: https://travis-ci.org/spirosikmd/ng2html-jest.svg
+[build-badge]: https://img.shields.io/travis/spirosikmd/nghtml2js-jest.svg?style=flat-square
+[build]: https://travis-ci.org/spirosikmd/nghtml2js-jest.svg
 [all-contributors-badge]: https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square
-[greenkeeper-badge]: https://badges.greenkeeper.io/spirosikmd/ng2html-jest.svg
+[greenkeeper-badge]: https://badges.greenkeeper.io/spirosikmd/nghtml2js-jest.svg
