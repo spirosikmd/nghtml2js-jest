@@ -1,0 +1,22 @@
+{
+  "projectName": "nghtml2js",
+  "projectOwner": "spirosikmd",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "spirosikmd",
+      "name": "Spyros Ioakeimidis",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1057324?v=4",
+      "profile": "http://www.spyros.io",
+      "contributions": [
+        "question",
+        "code",
+        "test"
+      ]
+    }
+  ]
+}

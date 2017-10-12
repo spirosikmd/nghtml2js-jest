@@ -1,0 +1,13 @@
+sudo: false
+language: node_js
+cache: yarn
+branches:
+  only:
+    - master
+    - /^greenkeeper/.*$/
+notifications:
+  email: false
+script:
+  - yarn test
+after_success:
+  - yarn semantic-release

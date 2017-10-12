@@ -1,0 +1,12 @@
+{
+  "bail": true,
+  "verbose": true,
+  "transform": {
+    "^.+\\.js$": "babel-jest",
+    "^.+\\.html$": "<rootDir>/../preprocessor.js"
+  },
+  "moduleFileExtensions": [
+    "js"
+  ],
+  "setupTestFrameworkScriptFile": "<rootDir>/test/setup.js"
+}

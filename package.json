@@ -1,0 +1,39 @@
+{
+  "name": "nghtml2js-jest",
+  "version": "0.0.0-development",
+  "description": "Jest preprocessor to turn Angular 1 templates into JS and put in modules.",
+  "main": "preprocessor.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spirosikmd/nghtml2js-jest"
+  },
+  "author": "Spyros Ioakeimidis <spyrosikmd@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "jest",
+    "preprocessor",
+    "nghtml2js",
+    "angular1"
+  ],
+  "scripts": {
+    "test": "jest --config jest.json",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "commit": "git-cz",
+    "add-contributor": "all-contributors add",
+    "generate-contributors": "all-contributors generate"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "@types/jest": "^21.1.2",
+    "all-contributors-cli": "^4.5.0",
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
+    "jest": "^21.2.1",
+    "ng-html2js": "^3.0.0",
+    "semantic-release": "^8.0.3"
+  }
+}
