@@ -31,7 +31,7 @@ The `test/setup.js` file will probably be needed to import `angular` and `angula
 }
 ```
 
-For a more complete example have a look at the [example](./example) folder.
+For a more complete example have a look at the [example](https://github.com/spirosikmd/nghtml2js-jest/tree/master/example) folder.
 
 ## Contributors
 
