@@ -9,7 +9,11 @@ Jest preprocessor to turn Angular 1 templates into JS and put in modules.
 
 ## Install
 
-`npm install --save-dev ng2html2js nghtml2js-jest` or `yarn ng2html2js nghtml2js-jest --dev`
+`npm install --save-dev ng2html2js nghtml2js-jest`
+
+or
+
+`yarn add ng2html2js nghtml2js-jest --dev`
 
 ## Example
 
