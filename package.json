@@ -34,6 +34,6 @@
     "cz-conventional-changelog": "^2.0.0",
     "jest": "^21.2.1",
     "ng-html2js": "^3.0.0",
-    "semantic-release": "^8.0.3"
+    "semantic-release": "^17.2.3"
   }
 }
